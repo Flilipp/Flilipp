@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">A begginer AI engineer</h3>
+<h3 align="center">A begginer AI engineer. Currently full stack developer (Google studio AI,lovable.dev,grok.com) full front and back end</h3>
 
 - 🔭 I’m currently working on **LYT**
 
